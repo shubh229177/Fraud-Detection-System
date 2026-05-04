@@ -1,5 +1,5 @@
 ## Fraud Detection System using Machine Learning
-## bOverview
+## Overview
 
 This project focuses on building an end-to-end fraud detection system using machine learning techniques on a large-scale financial transaction dataset. The dataset contains over 6 million transactions with highly imbalanced class distribution, where fraudulent cases represent a very small fraction of the data.
 
